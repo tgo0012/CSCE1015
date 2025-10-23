@@ -1,6 +1,8 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-EUID
+
+## EUID
 tgo0012
-Favorite Linux Command
+
+## Favorite Linux Command
 ls
